@@ -4,10 +4,15 @@
     justify-content: space-evenly;
 }
 
-.shop{
-    flex-basis: 15%;
+.shop {
+    flex-basis: 25%;
     border: 1px dotted peachpuff;
     padding: 1 em;
     margin: 0.5 em;
     text-align: center;
+}
+
+header {
+    text-align: center;
+    padding-bottom: 1em;
 }
